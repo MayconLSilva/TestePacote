@@ -1,8 +1,7 @@
-﻿using System;
-
-namespace TestePacote
+﻿namespace TestePacote
 {
     public class Class1
     {
+
     }
 }
